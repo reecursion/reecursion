@@ -1,4 +1,4 @@
-<h1 align="left"> Hello, I'm Gayathri! <img src="hand-wave.gif" alt="hand wave" width=10/></h1>
+<h1 align="left"> Hello, I'm Gayathri! <img src="hand-wave.gif" alt="hand wave" width=40 height=40/></h1>
 
 #### Let me introduce myself.
 
